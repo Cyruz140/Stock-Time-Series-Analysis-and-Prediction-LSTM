@@ -1,7 +1,5 @@
 # 📈 Time Series Analysis and Stock Price Prediction using LSTM
 
-![Project Banner](images/project_banner.png)
-
 ## 📝 1. Project Overview
 
 This project provides a comprehensive walkthrough of time series analysis and stock price prediction for major tech stocks (e.g., Apple - AAPL). The primary goal is to perform Exploratory Data Analysis (EDA) to understand stock behavior and then build a Long Short-Term Memory (LSTM) neural network to forecast future stock prices.
