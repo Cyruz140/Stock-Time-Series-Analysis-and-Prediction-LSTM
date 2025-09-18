@@ -67,8 +67,6 @@ The data used in this project is historical stock market data fetched from **Yah
 
 ## 📊 6. EDA Highlights
 
-*(Upload your plots to `images/` folder and update the links accordingly)*
-
 **Moving Average Analysis for a Single Stock (AAPL)**  
 ![Moving Average Plot](images/moving_averages.png)
 
