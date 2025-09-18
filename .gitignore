@@ -35,8 +35,7 @@ ENV/
 # You can also add specific environment folder names if you create them
 # e.g., my_conda_env/
 
-# Data files - It's good practice to not commit large data files
-data/
+
 
 # System files
 .DS_Store
