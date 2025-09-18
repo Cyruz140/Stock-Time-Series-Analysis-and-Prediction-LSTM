@@ -47,8 +47,9 @@ The data used in this project is historical stock market data fetched from **Yah
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/AyaatMohammed/Your-Repository-Name.git
-    cd Your-Repository-Name
+    git clone https://github.com/AyaatMohammed/Stock-Time-Series-Analysis-and-Prediction-LSTM.git
+    cd Stock-Time-Series-Analysis-and-Prediction-LSTM
+     
     ```
 
 2. **Create and activate the Conda environment:**
