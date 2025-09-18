@@ -109,11 +109,21 @@ The plot below shows the model's predictions (green line) against the actual sto
 > ⚡ Note: Full environment setup is provided in `requirements.txt`.
 
 ---
+---
 
-## 👩‍💻 9. Author
+## 📫9. Contact Me
 
-**Ayaat Mohammed**  
-AI & Data Science Specialist
+Created by Ayaat Mohammed. Feel free to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/AyaatMohammed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
 
 ---
 
