@@ -1,4 +1,9 @@
 # 📈 Time Series Analysis and Stock Price Prediction using LSTM
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python )
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white )
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--learn%20%7C%20yfinance-orange?style=for-the-badge )
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge )
+
 
 ## 📝 1. Project Overview
 
